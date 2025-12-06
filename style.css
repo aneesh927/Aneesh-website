@@ -1,0 +1,62 @@
+.box{
+
+    color: black;
+    font-style: italic;
+}
+ .first-photo  {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 10px rgba(0, 0,0,3);
+    object-fit: cover;
+    filter: brightness(1.2);
+    margin-left: 30px;
+ }
+ .youtube-button{
+   background-color: red;
+   color: white;
+   border-radius: 20px;
+ }
+.facebook{
+   background-color: blue;
+   color: white;
+   border-radius: 15px;
+   
+}
+.insta{
+   background-color:rgb(236, 17, 101)
+   color:beige;
+   
+  
+
+
+}
+.footer{
+   text-align: center;
+}
+
+   .image2{
+      width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 10px rgba(0, 0,0,3);
+    object-fit: cover;
+    filter: brightness(1.2);
+    display: flex;
+    justify-content: center;
+   }
+body {
+            margin: 0 !important;
+
+        }
+    
+
+        .header-menu {
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 22px;
+            color: white;
+            
+
+
+        }
